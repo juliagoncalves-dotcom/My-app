@@ -24,8 +24,8 @@
   },
   "icon": "./icons/MyLogo.png",
   "screenshots": {
-    "en": ["./screenshots/manifest_1.png", "./screenshots/manifest_2.png"],
-    "pt-BR": ["./screenshots/manifest_1.png", "./screenshots/manifest_2.png"],
-    "es": ["./screenshots/manifest_1.png", "./screenshots/manifest_2.png"]
+    "en": ["./screenshots/imagem 1.png", "./screenshots/imagem 2.png"],
+    "pt-BR": ["./screenshots/imagem 1.png", "./screenshots/imagem 2.png"],
+    "es": ["./screenshots/imagem 1.png", "./screenshots/imagem 2.png"]
   }
 }
